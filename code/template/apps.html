@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Installed Apps</title>
+    <style>
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        th {
+            background-color: #4CAF50;
+            color: white;
+            padding: 8px;
+        }
+        td {
+            border: 1px solid #ddd;
+            padding: 8px;
+        }
+        tr:nth-child(even) {
+            background-color: #f2f2f2;
+        }
+        tr:hover {
+            background-color: #ddd;
+        }
+        th, td {
+            text-align: left;
+        }
+    </style>
+</head>
+<body>
+    <h2>Installed Apps</h2>
+    <table>
+        <thead>
+            <tr>
+                <th>App Name</th>
+                <th>Version</th>
+                <th>Architecture</th>
+                <th>Last Modified</th>
+                <th>Obtained From</th>
+                <th>Path</th>
+                <th>Signed By</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for app in apps %}
+            <tr>
+                <td>{{ app._name }}</td>
+                <td>{{ app.version }}</td>
+                <td>{{ app.arch_kind }}</td>
+                <td>{{ app.lastModified }}</td>
+                <td>{{ app.obtained_from }}</td>
+                <td>{{ app.path }}</td>
+                <td>
+                    <ul>
+                    {% for signer in app.signed_by %}
+                        <li>{{ signer }}</li>
+                    {% endfor %}
+                    </ul>
+                </td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+</body>
+</html>
