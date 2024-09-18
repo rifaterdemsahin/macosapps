@@ -1,0 +1,4431 @@
+{
+    "SPApplicationsDataType": [
+        {
+            "_name": "App Store",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Applications/App Store.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "3.0"
+        },
+        {
+            "_name": "Automator",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Applications/Automator.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "2.10"
+        },
+        {
+            "_name": "Books",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Applications/Books.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "6.4"
+        },
+        {
+            "_name": "Calculator",
+            "arch_kind": "arch_arm_i64",
+            "info": "10.14, Copyright \u00a9 2000-2018, Apple Inc.",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Applications/Calculator.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "10.16"
+        },
+        {
+            "_name": "Calendar",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Applications/Calendar.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "14.0"
+        },
+        {
+            "_name": "Chess",
+            "arch_kind": "arch_arm_i64",
+            "info": "3.18, Copyright 2003\u20132023 Apple Inc.",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Applications/Chess.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "3.18"
+        },
+        {
+            "_name": "Clock",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Applications/Clock.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "1.1"
+        },
+        {
+            "_name": "Contacts",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Applications/Contacts.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "14.0"
+        },
+        {
+            "_name": "Dictionary",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Applications/Dictionary.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "2.3.0"
+        },
+        {
+            "_name": "FaceTime",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Applications/FaceTime.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "5.0"
+        },
+        {
+            "_name": "Find My",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Applications/FindMy.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "4.0"
+        },
+        {
+            "_name": "Font Book",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Applications/Font Book.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "11.0"
+        },
+        {
+            "_name": "Freeform",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Applications/Freeform.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "2.4"
+        },
+        {
+            "_name": "Home",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Applications/Home.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "8.0"
+        },
+        {
+            "_name": "Image Capture",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Applications/Image Capture.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "8.0"
+        },
+        {
+            "_name": "Launchpad",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Applications/Launchpad.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "1.0"
+        },
+        {
+            "_name": "Mail",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Applications/Mail.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "16.0"
+        },
+        {
+            "_name": "Maps",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Applications/Maps.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "3.0"
+        },
+        {
+            "_name": "Messages",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Applications/Messages.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "14.0"
+        },
+        {
+            "_name": "Mission Control",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Applications/Mission Control.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "1.2"
+        },
+        {
+            "_name": "Music",
+            "arch_kind": "arch_arm_i64",
+            "info": "Music 1.4.6.32, \u00a9 2019\u20132024 Apple Inc. All rights reserved.",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Applications/Music.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "1.4.6"
+        },
+        {
+            "_name": "News",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Applications/News.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "9.5"
+        },
+        {
+            "_name": "Notes",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Applications/Notes.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "4.11"
+        },
+        {
+            "_name": "UniversalAccessControl",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/CoreServices/UniversalAccessControl.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "7.0"
+        },
+        {
+            "_name": "Universal Control",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/CoreServices/UniversalControl.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "1.0"
+        },
+        {
+            "_name": "UnmountAssistantAgent",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/CoreServices/UnmountAssistantAgent.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "5.0"
+        },
+        {
+            "_name": "UserNotificationCenter",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/CoreServices/UserNotificationCenter.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "82"
+        },
+        {
+            "_name": "VoiceOver",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/CoreServices/VoiceOver.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "10"
+        },
+        {
+            "_name": "Wallpaper",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/CoreServices/WallpaperAgent.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "1.0"
+        },
+        {
+            "_name": "Watch Face Help",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/CoreServices/WatchFaceAlert.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "1.0"
+        },
+        {
+            "_name": "WiFiAgent",
+            "arch_kind": "arch_arm_i64",
+            "info": "17.0, Copyright \u00a9 2012-2019 Apple Inc. All rights reserved.",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/CoreServices/WiFiAgent.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "17.0"
+        },
+        {
+            "_name": "WidgetKit Simulator",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/CoreServices/WidgetKit Simulator.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "1.0"
+        },
+        {
+            "_name": "WindowManager",
+            "arch_kind": "arch_arm_i64",
+            "info": "WindowManager",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/CoreServices/WindowManager.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "175.400"
+        },
+        {
+            "_name": "WindowManagerShowDesktopEducation",
+            "arch_kind": "arch_arm_i64",
+            "info": "WindowManagerShowDesktopEducation",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/CoreServices/WindowManagerShowDesktopEducation.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "1.0"
+        },
+        {
+            "_name": "WorkoutAlert-Mac",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/CoreServices/WorkoutAlert-Mac.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "1.0"
+        },
+        {
+            "_name": "iCloud+",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/CoreServices/iCloud+.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "1.0"
+        },
+        {
+            "_name": "iCloud",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/CoreServices/iCloud.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "1.0"
+        },
+        {
+            "_name": "loginwindow",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/CoreServices/loginwindow.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "9.0"
+        },
+        {
+            "_name": "rcd",
+            "arch_kind": "arch_arm_i64",
+            "info": "361",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/CoreServices/rcd.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "361"
+        },
+        {
+            "_name": "screencaptureui",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/CoreServices/screencaptureui.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "1.0"
+        },
+        {
+            "_name": "Wireless Diagnostics",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/CoreServices/Applications/Wireless Diagnostics.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "11.0"
+        },
+        {
+            "_name": "iOS App Installer",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/CoreServices/Applications/iOS App Installer.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "1.0"
+        },
+        {
+            "_name": "Finder",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/CoreServices/Finder.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "14.6"
+        },
+        {
+            "_name": "AirDrop",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/CoreServices/Finder.app/Contents/Applications/AirDrop.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "14.6"
+        },
+        {
+            "_name": "Computer",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/CoreServices/Finder.app/Contents/Applications/Computer.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "14.6"
+        },
+        {
+            "_name": "Network",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/CoreServices/Finder.app/Contents/Applications/Network.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "14.6"
+        },
+        {
+            "_name": "Recents",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/CoreServices/Finder.app/Contents/Applications/Recents.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "14.6"
+        },
+        {
+            "_name": "iCloud Drive",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/CoreServices/Finder.app/Contents/Applications/iCloud Drive.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "14.6"
+        },
+        {
+            "_name": "Help Viewer",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/CoreServices/Help Viewer.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "7.0"
+        },
+        {
+            "_name": "Tips",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/CoreServices/Tips.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "10.0"
+        },
+        {
+            "_name": "Photo Booth",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Applications/Photo Booth.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "13.1"
+        },
+        {
+            "_name": "Photos",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Applications/Photos.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "9.0"
+        },
+        {
+            "_name": "Podcasts",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Applications/Podcasts.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "1.1.0"
+        },
+        {
+            "_name": "Preview",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Applications/Preview.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "11.0"
+        },
+        {
+            "_name": "QuickTime Player",
+            "arch_kind": "arch_arm_i64",
+            "info": "10.5, Copyright \u00a9 2009-2023 Apple Inc. All Rights Reserved.",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Applications/QuickTime Player.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "10.5"
+        },
+        {
+            "_name": "Reminders",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Applications/Reminders.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "7.0"
+        },
+        {
+            "_name": "Shortcuts",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Applications/Shortcuts.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "7.0"
+        },
+        {
+            "_name": "Siri",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Applications/Siri.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "1.0"
+        },
+        {
+            "_name": "Stickies",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Applications/Stickies.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "10.2"
+        },
+        {
+            "_name": "Stocks",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Applications/Stocks.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "6.2.3"
+        },
+        {
+            "_name": "System Settings",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Applications/System Settings.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "15.0"
+        },
+        {
+            "_name": "TV",
+            "arch_kind": "arch_arm_i64",
+            "info": "TV 1.4.6.32, \u00a9 2019\u20132024 Apple Inc. All rights reserved.",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Applications/TV.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "1.4.6"
+        },
+        {
+            "_name": "TextEdit",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Applications/TextEdit.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "1.19"
+        },
+        {
+            "_name": "Time Machine",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Applications/Time Machine.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "1.3"
+        },
+        {
+            "_name": "Activity Monitor",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Applications/Utilities/Activity Monitor.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "10.14"
+        },
+        {
+            "_name": "AirPort Utility",
+            "arch_kind": "arch_arm_i64",
+            "info": "6.3.9, Copyright 2001 -2023 Apple Inc.",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Applications/Utilities/AirPort Utility.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "6.3.9"
+        },
+        {
+            "_name": "Audio MIDI Setup",
+            "arch_kind": "arch_arm_i64",
+            "info": "3.6, Copyright 2002\u20132023 Apple Inc.",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Applications/Utilities/Audio MIDI Setup.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "3.6"
+        },
+        {
+            "_name": "Bluetooth File Exchange",
+            "arch_kind": "arch_arm_i64",
+            "info": "7.0.0, Copyright \u00a9 2002-2018 Apple Inc. All rights reserved.",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Applications/Utilities/Bluetooth File Exchange.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "9.0"
+        },
+        {
+            "_name": "Boot Camp Assistant",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Applications/Utilities/Boot Camp Assistant.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "6.1.0"
+        },
+        {
+            "_name": "ColorSync Utility",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Applications/Utilities/ColorSync Utility.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "12.0.0"
+        },
+        {
+            "_name": "Console",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Applications/Utilities/Console.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "1.1"
+        },
+        {
+            "_name": "Digital Colour Meter",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Applications/Utilities/Digital Color Meter.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "5.22"
+        },
+        {
+            "_name": "Disk Utility",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Applications/Utilities/Disk Utility.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "22.6"
+        },
+        {
+            "_name": "Grapher",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Applications/Utilities/Grapher.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "2.7"
+        },
+        {
+            "_name": "Keychain Access",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Applications/Utilities/Keychain Access.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "11.0"
+        },
+        {
+            "_name": "Migration Assistant",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Applications/Utilities/Migration Assistant.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "14.6"
+        },
+        {
+            "_name": "Print Centre",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Applications/Utilities/Print Center.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "1.0"
+        },
+        {
+            "_name": "Screen Sharing",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Applications/Utilities/Screen Sharing.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "4.3"
+        },
+        {
+            "_name": "Screenshot",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Applications/Utilities/Screenshot.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "1.0"
+        },
+        {
+            "_name": "Script Editor",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Applications/Utilities/Script Editor.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "2.11"
+        },
+        {
+            "_name": "System Information",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Applications/Utilities/System Information.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "11.0"
+        },
+        {
+            "_name": "Terminal",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Applications/Utilities/Terminal.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "2.14"
+        },
+        {
+            "_name": "VoiceOver Utility",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Applications/Utilities/VoiceOver Utility.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "10"
+        },
+        {
+            "_name": "Voice Memos",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Applications/VoiceMemos.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "2.4"
+        },
+        {
+            "_name": "Weather",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Applications/Weather.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "4.2.2"
+        },
+        {
+            "_name": "About This Mac",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/CoreServices/Applications/About This Mac.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "1.0"
+        },
+        {
+            "_name": "Archive Utility",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/CoreServices/Applications/Archive Utility.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "10.15"
+        },
+        {
+            "_name": "DVD Player",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/CoreServices/Applications/DVD Player.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "6.0"
+        },
+        {
+            "_name": "Desk View",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/CoreServices/Applications/Desk View.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "1.0"
+        },
+        {
+            "_name": "Directory Utility",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/CoreServices/Applications/Directory Utility.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "6.4"
+        },
+        {
+            "_name": "Expansion Slot Utility",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/CoreServices/Applications/Expansion Slot Utility.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "2.0"
+        },
+        {
+            "_name": "Feedback Assistant",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/CoreServices/Applications/Feedback Assistant.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "5.1"
+        },
+        {
+            "_name": "Folder Actions Setup",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/CoreServices/Applications/Folder Actions Setup.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "1.2"
+        },
+        {
+            "_name": "Ticket Viewer",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/CoreServices/Applications/Ticket Viewer.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "4.1"
+        },
+        {
+            "_name": "MTLReplayer",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/CoreServices/MTLReplayer.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "270.13.3"
+        },
+        {
+            "_name": "ManagedClient",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/CoreServices/ManagedClient.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "16.6"
+        },
+        {
+            "_name": "MediaMLPluginApp",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/CoreServices/MediaMLPluginApp.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "1.0"
+        },
+        {
+            "_name": "Memory Slot Utility",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/CoreServices/Memory Slot Utility.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "1.5.3"
+        },
+        {
+            "_name": "Music Recognition",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/CoreServices/MusicRecognitionMac.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "1.0"
+        },
+        {
+            "_name": "NetAuthAgent",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/CoreServices/NetAuthAgent.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "6.2"
+        },
+        {
+            "_name": "Notification Centre",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/CoreServices/NotificationCenter.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "1.0"
+        },
+        {
+            "_name": "NowPlayingTouchUI",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/CoreServices/NowPlayingTouchUI.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "1.0"
+        },
+        {
+            "_name": "OBEXAgent",
+            "arch_kind": "arch_arm_i64",
+            "info": "7.0.0, Copyright \u00a9 2002-2018 Apple Inc. All rights reserved.",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/CoreServices/OBEXAgent.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "9.0"
+        },
+        {
+            "_name": "ODSAgent",
+            "arch_kind": "arch_arm_i64",
+            "info": "1.9 (190.2), Copyright \u00a9 2007-2009 Apple Inc. All Rights Reserved.",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/CoreServices/ODSAgent.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "1.9"
+        },
+        {
+            "_name": "OSDUIHelper",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/CoreServices/OSDUIHelper.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "1.1"
+        },
+        {
+            "_name": "PIPAgent",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/CoreServices/PIPAgent.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "1.0"
+        },
+        {
+            "_name": "Paired Devices",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/CoreServices/Paired Devices.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "5.8.0"
+        },
+        {
+            "_name": "Pass Viewer",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/CoreServices/Pass Viewer.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "1.0"
+        },
+        {
+            "_name": "PeopleMessageService",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/CoreServices/PeopleMessageService.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "1.0"
+        },
+        {
+            "_name": "Contacts",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/CoreServices/PeopleViewService.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "1.0"
+        },
+        {
+            "_name": "PowerChime",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/CoreServices/PowerChime.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "1.0"
+        },
+        {
+            "_name": "PreviewShell",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/CoreServices/PreviewShell.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "15.3"
+        },
+        {
+            "_name": "Pro Display Calibrator",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/CoreServices/Pro Display Calibrator.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "2.0.2"
+        },
+        {
+            "_name": "Problem Reporter",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/CoreServices/Problem Reporter.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "10.13"
+        },
+        {
+            "_name": "Profile Installer",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/CoreServices/ProfileHelper.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "1.0"
+        },
+        {
+            "_name": "RapportUIAgent",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/CoreServices/RapportUIAgent.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "5.8.0"
+        },
+        {
+            "_name": "RegisterPluginIMApp",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/CoreServices/RegisterPluginIMApp.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "25"
+        },
+        {
+            "_name": "ARDAgent",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/CoreServices/RemoteManagement/ARDAgent.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "3.9.8"
+        },
+        {
+            "_name": "Remote Desktop Message",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/CoreServices/RemoteManagement/Remote Desktop Message.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "3.9.8"
+        },
+        {
+            "_name": "SSMenuAgent",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/CoreServices/RemoteManagement/SSMenuAgent.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "3.9.8"
+        },
+        {
+            "_name": "Rosetta 2 Updater",
+            "arch_kind": "arch_arm",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/CoreServices/Rosetta 2 Updater.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "1.0"
+        },
+        {
+            "_name": "Screen Time",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/CoreServices/Screen Time.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "3.0"
+        },
+        {
+            "_name": "ScreenSaverEngine",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/CoreServices/ScreenSaverEngine.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "5.0"
+        },
+        {
+            "_name": "Script Menu",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/CoreServices/Script Menu.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "1"
+        },
+        {
+            "_name": "ScriptMonitor",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/CoreServices/ScriptMonitor.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "1.0.1"
+        },
+        {
+            "_name": "Setup Assistant",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/CoreServices/Setup Assistant.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "10.10"
+        },
+        {
+            "_name": "ShortcutDroplet",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/CoreServices/ShortcutDroplet.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "1.0"
+        },
+        {
+            "_name": "Shortcuts Events",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/CoreServices/Shortcuts Events.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "1.0"
+        },
+        {
+            "_name": "ShortcutsActions",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/CoreServices/ShortcutsActions.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ]
+        },
+        {
+            "_name": "Siri",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/CoreServices/Siri.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "3306.4.1"
+        },
+        {
+            "_name": "Software Update",
+            "arch_kind": "arch_arm_i64",
+            "info": "Software Update version 4.0, Copyright \u00a9 2000-2009, Apple Inc. All rights reserved.",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/CoreServices/Software Update.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "6"
+        },
+        {
+            "_name": "SpacesTouchBarAgent",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/CoreServices/SpacesTouchBarAgent.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "1.0"
+        },
+        {
+            "_name": "Spotlight",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/CoreServices/Spotlight.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "1.0"
+        },
+        {
+            "_name": "StageManagerOnboarding",
+            "arch_kind": "arch_arm_i64",
+            "info": "StageManagerOnboarding",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/CoreServices/StageManagerOnboarding.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "1.0"
+        },
+        {
+            "_name": "System Events",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/CoreServices/System Events.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "1.3.6"
+        },
+        {
+            "_name": "SystemUIServer",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/CoreServices/SystemUIServer.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "1.7"
+        },
+        {
+            "_name": "TextInputMenuAgent",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/CoreServices/TextInputMenuAgent.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "1.0"
+        },
+        {
+            "_name": "TextInputSwitcher",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/CoreServices/TextInputSwitcher.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "1.1"
+        },
+        {
+            "_name": "ThermalTrap",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/CoreServices/ThermalTrap.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "1.0"
+        },
+        {
+            "_name": "TMHelperAgent",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/CoreServices/TimeMachine/TMHelperAgent.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "13"
+        },
+        {
+            "_name": "UIKitSystem",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/CoreServices/UIKitSystem.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "1.0"
+        },
+        {
+            "_name": "TrackpadIM",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/Input Methods/TrackpadIM.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "1.0"
+        },
+        {
+            "_name": "TransliterationIM",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/Input Methods/TransliterationIM.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "1.0"
+        },
+        {
+            "_name": "VietnameseIM",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/Input Methods/VietnameseIM.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "1.0"
+        },
+        {
+            "_name": "OpenSpell",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/Services/OpenSpell.service",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "1.0"
+        },
+        {
+            "_name": "SpeechService",
+            "arch_kind": "arch_arm_i64",
+            "info": "9.2.22",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/Services/SpeechService.service",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "9.2.22"
+        },
+        {
+            "_name": "Spotlight",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/Services/Spotlight.service",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "3.0"
+        },
+        {
+            "_name": "Summary Service",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/Services/Summary Service.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "2.0"
+        },
+        {
+            "_name": "ClassroomStudentMenuExtra",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/Classroom/ClassroomStudentMenuExtra.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "1.0"
+        },
+        {
+            "_name": "Display Calibrator",
+            "arch_kind": "arch_arm_i64",
+            "info": "4.18, Copyright 2014-2023 Apple Computer, Inc.",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/ColorSync/Calibrators/Display Calibrator.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "4.18"
+        },
+        {
+            "_name": "AOSUIPrefPaneLauncher",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/CoreServices/AOSUIPrefPaneLauncher.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "1.0"
+        },
+        {
+            "_name": "AVB Configuration",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/CoreServices/AVB Configuration.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "1220.1"
+        },
+        {
+            "_name": "Add Printer",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/CoreServices/AddPrinter.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "607"
+        },
+        {
+            "_name": "AddressBookUrlForwarder",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/CoreServices/AddressBookUrlForwarder.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "14.0"
+        },
+        {
+            "_name": "AirPlayUIAgent",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/CoreServices/AirPlayUIAgent.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "2.0"
+        },
+        {
+            "_name": "AirPort Base Station Agent",
+            "arch_kind": "arch_arm_i64",
+            "info": "2.2.1 (221.11), Copyright \u00a9 2006 -2023 Apple Inc. All Rights Reserved.",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/CoreServices/AirPort Base Station Agent.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "2.2.1"
+        },
+        {
+            "_name": "AppleScript Utility",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/CoreServices/AppleScript Utility.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "1.1.2"
+        },
+        {
+            "_name": "AskToMessagesHost",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/CoreServices/AskToMessagesHost.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "1.0"
+        },
+        {
+            "_name": "Automator Application Stub",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "unknown",
+            "path": "/System/Library/CoreServices/Automator Application Stub.app",
+            "version": "1.3"
+        },
+        {
+            "_name": "Automator Installer",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/CoreServices/Automator Installer.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "2.10"
+        },
+        {
+            "_name": "Batteries",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/CoreServices/Batteries.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "1.0"
+        },
+        {
+            "_name": "Bluetooth Setup Assistant",
+            "arch_kind": "arch_arm_i64",
+            "info": "9.0 (1)",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/CoreServices/BluetoothSetupAssistant.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "9.0"
+        },
+        {
+            "_name": "BluetoothUIServer",
+            "arch_kind": "arch_arm_i64",
+            "info": "kBluetoothCFBundleGetInfoString",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/CoreServices/BluetoothUIServer.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "9.0"
+        },
+        {
+            "_name": "BluetoothUIService",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/CoreServices/BluetoothUIService.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "1.0"
+        },
+        {
+            "_name": "CalendarFileHandler",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/CoreServices/CalendarFileHandler.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "8.0"
+        },
+        {
+            "_name": "Captive Network Assistant",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/CoreServices/Captive Network Assistant.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "5.0"
+        },
+        {
+            "_name": "Certificate Assistant",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/CoreServices/Certificate Assistant.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "5.0"
+        },
+        {
+            "_name": "Control Centre",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/CoreServices/ControlCenter.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "1.0"
+        },
+        {
+            "_name": "ControlStrip",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/CoreServices/ControlStrip.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "1.0"
+        },
+        {
+            "_name": "CoreLocationAgent",
+            "arch_kind": "arch_arm_i64",
+            "info": "Copyright \u00a9 2013 Apple Inc.",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/CoreServices/CoreLocationAgent.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "2890.16.23"
+        },
+        {
+            "_name": "CoreServicesUIAgent",
+            "arch_kind": "arch_arm_i64",
+            "info": "Copyright \u00a9 2009 Apple Inc.",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/CoreServices/CoreServicesUIAgent.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "369"
+        },
+        {
+            "_name": "Coverage Details",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/CoreServices/Coverage Details.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "1.0"
+        },
+        {
+            "_name": "Database Events",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/CoreServices/Database Events.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "1.0.6"
+        },
+        {
+            "_name": "Diagnostics Reporter",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/CoreServices/Diagnostics Reporter.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "1.0"
+        },
+        {
+            "_name": "DiscHelper",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/CoreServices/DiscHelper.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "1.0"
+        },
+        {
+            "_name": "DiskImageMounter",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/CoreServices/DiskImageMounter.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "1.0"
+        },
+        {
+            "_name": "Dock",
+            "arch_kind": "arch_arm_i64",
+            "info": "Dock 1.8",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/CoreServices/Dock.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "1.8"
+        },
+        {
+            "_name": "Dwell Control",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/CoreServices/Dwell Control.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "1.0"
+        },
+        {
+            "_name": "Erase Assistant",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/CoreServices/Erase Assistant.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "1.0"
+        },
+        {
+            "_name": "EscrowSecurityAlert",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/CoreServices/EscrowSecurityAlert.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "1.0"
+        },
+        {
+            "_name": "Family",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/CoreServices/Family.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "1.0"
+        },
+        {
+            "_name": "FolderActionsDispatcher",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/CoreServices/FolderActionsDispatcher.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "1.0"
+        },
+        {
+            "_name": "Game Center",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/CoreServices/Game Center.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "1.0"
+        },
+        {
+            "_name": "IOUIAgent",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/CoreServices/IOUIAgent.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "1.0"
+        },
+        {
+            "_name": "Image Events",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/CoreServices/Image Events.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "1.1.6"
+        },
+        {
+            "_name": "Install Command Line Developer Tools",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/CoreServices/Install Command Line Developer Tools.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "2408"
+        },
+        {
+            "_name": "Install in Progress",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/CoreServices/Install in Progress.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "3.0"
+        },
+        {
+            "_name": "Installer Progress",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/CoreServices/Installer Progress.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "1.0"
+        },
+        {
+            "_name": "Installer",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/CoreServices/Installer.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "6.2.0"
+        },
+        {
+            "_name": "JavaLauncher",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/CoreServices/JavaLauncher.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "321"
+        },
+        {
+            "_name": "KeyboardAccessAgent",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/CoreServices/KeyboardAccessAgent.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "10"
+        },
+        {
+            "_name": "KeyboardSetupAssistant",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/CoreServices/KeyboardSetupAssistant.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "1.0"
+        },
+        {
+            "_name": "Keychain Circle Notification",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/CoreServices/Keychain Circle Notification.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "1.0"
+        },
+        {
+            "_name": "Language Chooser",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/CoreServices/Language Chooser.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "1.0"
+        },
+        {
+            "_name": "IDSRemoteURLConnectionAgent",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/PrivateFrameworks/IDSFoundation.framework/IDSRemoteURLConnectionAgent.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "10.0"
+        },
+        {
+            "_name": "imagent",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/PrivateFrameworks/IMCore.framework/imagent.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "10.0"
+        },
+        {
+            "_name": "DiskImages UI Agent",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/PrivateFrameworks/DiskImages.framework/Versions/A/Resources/DiskImages UI Agent.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "654.120.2"
+        },
+        {
+            "_name": "Calibration Assistant",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/PrivateFrameworks/AmbientDisplay.framework/Versions/A/Resources/Calibration Assistant.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "1.0"
+        },
+        {
+            "_name": "AppSSOAgent",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/PrivateFrameworks/AppSSO.framework/Support/AppSSOAgent.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "1.0"
+        },
+        {
+            "_name": "KerberosMenuExtra",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/PrivateFrameworks/AppSSOKerberos.framework/Support/KerberosMenuExtra.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "1.0"
+        },
+        {
+            "_name": "iCloud Drive",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/PrivateFrameworks/CloudDocsDaemon.framework/Versions/A/Resources/iCloud Drive.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "1.0"
+        },
+        {
+            "_name": "AMSEngagementViewService",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/PrivateFrameworks/AppleMediaServicesUI.framework/Versions/A/Resources/AMSEngagementViewService.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "1.0"
+        },
+        {
+            "_name": "Live Captions",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/PrivateFrameworks/AccessibilitySharedSupport.framework/Versions/A/Resources/Live Captions.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "1.0"
+        },
+        {
+            "_name": "LiveSpeech",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/PrivateFrameworks/AccessibilitySharedSupport.framework/Versions/A/Resources/LiveSpeech.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "1.0"
+        },
+        {
+            "_name": "FindMyMacMessenger",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/PrivateFrameworks/FindMyMac.framework/Versions/A/Resources/FindMyMacMessenger.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "4.1"
+        },
+        {
+            "_name": "AquaAppearanceHelper",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/PrivateFrameworks/SkyLight.framework/Versions/A/Resources/AquaAppearanceHelper.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "1.0"
+        },
+        {
+            "_name": "AutoFillPanelService",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/PrivateFrameworks/AutoFillUI.framework/Contents/AutoFillPanelService.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "1.0"
+        },
+        {
+            "_name": "AutomationModeUI",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/PrivateFrameworks/AutomationMode.framework/AutomationModeUI.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "1.0"
+        },
+        {
+            "_name": "AXVisualSupportAgent",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/PrivateFrameworks/UniversalAccess.framework/Versions/A/Resources/AXVisualSupportAgent.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "1.0"
+        },
+        {
+            "_name": "DFRHUD",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/PrivateFrameworks/UniversalAccess.framework/Versions/A/Resources/DFRHUD.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "1.0"
+        },
+        {
+            "_name": "Voice Control Guide",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/PrivateFrameworks/UniversalAccess.framework/Versions/A/Resources/Voice Control Guide.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "1.0"
+        },
+        {
+            "_name": "universalAccessAuthWarn",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/PrivateFrameworks/UniversalAccess.framework/Versions/A/Resources/universalAccessAuthWarn.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "1.0"
+        },
+        {
+            "_name": "LinkedNotesUIService",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/PrivateFrameworks/PaperKit.framework/Contents/LinkedNotesUIService.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "1.0"
+        },
+        {
+            "_name": "CIMFindInputCodeTool",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/PrivateFrameworks/CoreChineseEngine.framework/Versions/A/SharedSupport/CIMFindInputCodeTool.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "104"
+        },
+        {
+            "_name": "BackgroundTaskManagementAgent",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/PrivateFrameworks/BackgroundTaskManagement.framework/Support/BackgroundTaskManagementAgent.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "1.0"
+        },
+        {
+            "_name": "iCloudUserNotificationsd",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/PrivateFrameworks/AOSAccounts.framework/Versions/A/Resources/iCloudUserNotificationsd.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "1.0"
+        },
+        {
+            "_name": "AOSAlertManager",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/PrivateFrameworks/AOSKit.framework/Versions/A/Helpers/AOSAlertManager.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "1.07"
+        },
+        {
+            "_name": "AOSHeartbeat",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/PrivateFrameworks/AOSKit.framework/Versions/A/Helpers/AOSHeartbeat.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "1.07"
+        },
+        {
+            "_name": "AOSPushRelay",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/PrivateFrameworks/AOSKit.framework/Versions/A/Helpers/AOSPushRelay.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "1.07"
+        },
+        {
+            "_name": "IMTransferAgent",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/PrivateFrameworks/IMTransferServices.framework/IMTransferAgent.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "10.0"
+        },
+        {
+            "_name": "eaptlstrust",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/PrivateFrameworks/EAP8021X.framework/Support/eaptlstrust.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "13.0"
+        },
+        {
+            "_name": "UASharedPasteboardProgressUI",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/PrivateFrameworks/UserActivity.framework/Agents/UASharedPasteboardProgressUI.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "54.1"
+        },
+        {
+            "_name": "identityservicesd",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/PrivateFrameworks/IDS.framework/identityservicesd.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "10.0"
+        },
+        {
+            "_name": "SoftwareUpdateNotificationManager",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/PrivateFrameworks/SoftwareUpdate.framework/Versions/A/Resources/SoftwareUpdateNotificationManager.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "1.0"
+        },
+        {
+            "_name": "ScreenReaderUIServer",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/PrivateFrameworks/ScreenReader.framework/Versions/A/Resources/ScreenReaderUIServer.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "10"
+        },
+        {
+            "_name": "VoiceOver Quickstart",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/PrivateFrameworks/ScreenReader.framework/Versions/A/Resources/VoiceOver Quickstart.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "10"
+        },
+        {
+            "_name": "Speech Downloader",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/PrivateFrameworks/SpeechObjects.framework/Versions/A/SpeechDataInstallerd.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "9.0.68"
+        },
+        {
+            "_name": "SpeechRecognitionServer",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/PrivateFrameworks/SpeechObjects.framework/Versions/A/SpeechRecognitionServer.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "9.0.68"
+        },
+        {
+            "_name": "ParentalControls",
+            "arch_kind": "arch_arm_i64",
+            "info": "2.0, Copyright Apple Inc. 2007-2019",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/PrivateFrameworks/FamilyControls.framework/Versions/A/Resources/ParentalControls.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "4.1"
+        },
+        {
+            "_name": "nbagent",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/PrivateFrameworks/Noticeboard.framework/Versions/A/Resources/nbagent.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "1.0"
+        },
+        {
+            "_name": "FollowUpUI",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/PrivateFrameworks/CoreFollowUp.framework/Versions/A/Resources/FollowUpUI.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "1.0"
+        },
+        {
+            "_name": "Conflict Resolver",
+            "arch_kind": "arch_arm_i64",
+            "info": "1.0, Copyright Apple Computer Inc. 2004",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/PrivateFrameworks/SyncServicesUI.framework/Versions/A/Resources/Conflict Resolver.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "8.1"
+        },
+        {
+            "_name": "STMUIHelper",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/PrivateFrameworks/StorageManagement.framework/Versions/A/Resources/STMUIHelper.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "1.0"
+        },
+        {
+            "_name": "IMAutomaticHistoryDeletionAgent",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/PrivateFrameworks/IMDPersistence.framework/IMAutomaticHistoryDeletionAgent.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "10.0"
+        },
+        {
+            "_name": "syncuid",
+            "arch_kind": "arch_arm_i64",
+            "info": "4.0, Copyright Apple Computer Inc. 2004",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/PrivateFrameworks/SyncServicesUI.framework/Versions/A/Resources/syncuid.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "8.1"
+        },
+        {
+            "_name": "storeuid",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/PrivateFrameworks/CommerceKit.framework/Versions/A/Resources/storeuid.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "1.0"
+        },
+        {
+            "_name": "sociallayerd",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/PrivateFrameworks/SocialLayer.framework/sociallayerd.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "1.0"
+        },
+        {
+            "_name": "AskPermissionUI",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/PrivateFrameworks/AskPermission.framework/Versions/A/Resources/AskPermissionUI.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "1.0"
+        },
+        {
+            "_name": "AccessibilityVisualsAgent",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/PrivateFrameworks/AccessibilitySupport.framework/Versions/A/Resources/AccessibilityVisualsAgent.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "1.0"
+        },
+        {
+            "_name": "FontRegistryUIAgent",
+            "arch_kind": "arch_arm_i64",
+            "info": "Copyright \u00a9 2008-2013 Apple Inc.",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ATS.framework/Versions/A/Support/FontRegistryUIAgent.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "81.0"
+        },
+        {
+            "_name": "qlmanage",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/Frameworks/QuickLook.framework/Versions/A/Resources/qlmanage.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "1.0"
+        },
+        {
+            "_name": "quicklookd",
+            "arch_kind": "arch_arm_i64",
+            "info": "5.0, Copyright Apple Inc. 2007-2013",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/Frameworks/QuickLook.framework/Versions/A/Resources/quicklookd.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "5.0"
+        },
+        {
+            "_name": "Quick Look Simulator",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/Frameworks/QuickLookUI.framework/Versions/A/Resources/Quick Look Simulator.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "1.0"
+        },
+        {
+            "_name": "QuickLookUIHelper",
+            "arch_kind": "arch_arm_i64",
+            "info": "5.0, Copyright Apple Inc. 2007-2013",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/Frameworks/QuickLookUI.framework/Versions/A/Resources/QuickLookUIHelper.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "5.0"
+        },
+        {
+            "_name": "Wish",
+            "arch_kind": "arch_arm_i64",
+            "info": "Wish Shell 8.5.9,\nCopyright \u00a9 1989-2024 Tcl Core Team,\nCopyright \u00a9 2002-2024 Daniel A. Steffen,\nCopyright \u00a9 2001-2009 Apple Inc.,\nCopyright \u00a9 2001-2002 Jim Ingham & Ian Reid",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/Frameworks/Tk.framework/Versions/8.5/Resources/Wish.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "8.5.9"
+        },
+        {
+            "_name": "SyncServer",
+            "arch_kind": "arch_arm_i64",
+            "info": "\u00a9 2002-2003 Apple",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/Frameworks/SyncServices.framework/Versions/A/Resources/SyncServer.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "8.1"
+        },
+        {
+            "_name": "Build Web Page",
+            "arch_kind": "arch_arm_i64",
+            "info": "10.1, \u00a9 Copyright 2003-2014 Apple  Inc. All rights reserved.",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/Image Capture/Automatic Tasks/Build Web Page.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "10.1"
+        },
+        {
+            "_name": "MakePDF",
+            "arch_kind": "arch_arm_i64",
+            "info": "10.1, \u00a9 Copyright 2003-2015 Apple Inc. All rights reserved.",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/Image Capture/Automatic Tasks/MakePDF.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "10.1"
+        },
+        {
+            "_name": "AirScanScanner",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/Image Capture/Devices/AirScanScanner.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "18"
+        },
+        {
+            "_name": "50onPaletteServer",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/Input Methods/50onPaletteServer.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "1.1.0"
+        },
+        {
+            "_name": "AinuIM",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/Input Methods/AinuIM.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "1.0"
+        },
+        {
+            "_name": "Assistive Control",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/Input Methods/Assistive Control.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "2.0"
+        },
+        {
+            "_name": "CharacterPalette",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/Input Methods/CharacterPalette.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "2.0.1"
+        },
+        {
+            "_name": "Dictation",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/Input Methods/DictationIM.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "6.1.82.1"
+        },
+        {
+            "_name": "EmojiFunctionRowIM",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/Input Methods/EmojiFunctionRowIM.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "1.0"
+        },
+        {
+            "_name": "JapaneseIM-KanaTyping",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/Input Methods/JapaneseIM-KanaTyping.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "6.3"
+        },
+        {
+            "_name": "JapaneseIM-RomajiTyping",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/Input Methods/JapaneseIM-RomajiTyping.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "6.3"
+        },
+        {
+            "_name": "KoreanIM",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/Input Methods/KoreanIM.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "1.0"
+        },
+        {
+            "_name": "PluginIM",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/Input Methods/PluginIM.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "25"
+        },
+        {
+            "_name": "PressAndHold",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/Input Methods/PressAndHold.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "1.0"
+        },
+        {
+            "_name": "SCIM",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/Input Methods/SCIM.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "104"
+        },
+        {
+            "_name": "TCIM",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/Input Methods/TCIM.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "104"
+        },
+        {
+            "_name": "TYIM",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/Input Methods/TYIM.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "104"
+        },
+        {
+            "_name": "TamilIM",
+            "arch_kind": "arch_arm_i64",
+            "info": "Tamil Input Method 1.5",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/Input Methods/TamilIM.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "1.6"
+        },
+        {
+            "_name": "System Speech",
+            "arch_kind": "arch_arm_i64",
+            "info": "9.2.22",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/SpeechSynthesis.framework/Versions/A/System Speech.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "9.2.22"
+        },
+        {
+            "_name": "AddressBookSync",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/Frameworks/AddressBook.framework/Helpers/AddressBookSync.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "14.0"
+        },
+        {
+            "_name": "ABAssistantService",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/Frameworks/AddressBook.framework/Versions/A/Helpers/ABAssistantService.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "14.0"
+        },
+        {
+            "_name": "AddressBookManager",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/Frameworks/AddressBook.framework/Versions/A/Helpers/AddressBookManager.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "14.0"
+        },
+        {
+            "_name": "AddressBookSourceSync",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/Frameworks/AddressBook.framework/Versions/A/Helpers/AddressBookSourceSync.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "14.0"
+        },
+        {
+            "_name": "CinematicFramingOnboardingUI",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/Frameworks/CoreMediaIO.framework/Versions/A/Resources/CinematicFramingOnboardingUI.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "1.0"
+        },
+        {
+            "_name": "ContinuityCaptureOnboardingUI",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/Frameworks/CoreMediaIO.framework/Versions/A/Resources/ContinuityCaptureOnboardingUI.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "1.0"
+        },
+        {
+            "_name": "SmartCard Pairing",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/Frameworks/CryptoTokenKit.framework/ctkbind.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "1.0"
+        },
+        {
+            "_name": "AppleSpell",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/Services/AppleSpell.service",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "2.4"
+        },
+        {
+            "_name": "ChineseTextConverterService",
+            "arch_kind": "arch_arm_i64",
+            "info": "Chinese Text Converter 1.1",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/System/Library/Services/ChineseTextConverterService.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "2.1"
+        },
+        {
+            "_name": "group.is.workflow",
+            "arch_kind": "arch_other",
+            "lastModified": "2024-03-19T09:28:18Z",
+            "obtained_from": "unknown",
+            "path": "/Users/rifaterdemsahin/Library/Application Scripts/group.is.workflow.my.app"
+        },
+        {
+            "_name": "MRT",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-03-19T09:39:11Z",
+            "obtained_from": "apple",
+            "path": "/Library/Apple/System/Library/CoreServices/MRT.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "1.93"
+        },
+        {
+            "_name": "com.apple.ctcategories",
+            "arch_kind": "arch_other",
+            "lastModified": "2024-03-19T09:46:12Z",
+            "obtained_from": "unknown",
+            "path": "/Users/rifaterdemsahin/Library/HTTPStorages/com.apple.ctcategories.service"
+        },
+        {
+            "_name": "Google Chrome",
+            "arch_kind": "arch_arm_i64",
+            "info": "Google Chrome 128.0.6613.138, Copyright 2024 Google LLC. All rights reserved.",
+            "lastModified": "2024-05-10T16:45:48Z",
+            "obtained_from": "identified_developer",
+            "path": "/Applications/Google Chrome.app",
+            "signed_by": [
+                "Developer ID Application: Google LLC (EQHXZ8M8AV)",
+                "Developer ID Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "128.0.6613.138"
+        },
+        {
+            "_name": "Python",
+            "arch_kind": "arch_arm_i64",
+            "info": "3.9.6, (c) 2001-2020 Python Software Foundation.",
+            "lastModified": "2024-03-19T09:43:40Z",
+            "obtained_from": "apple",
+            "path": "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/Resources/Python.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "3.9.6"
+        },
+        {
+            "_name": "XProtect",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-09-06T15:05:29Z",
+            "obtained_from": "apple",
+            "path": "/Library/Apple/System/Library/CoreServices/XProtect.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "145"
+        },
+        {
+            "_name": "BMDPanelDaemon",
+            "arch_kind": "arch_i64",
+            "lastModified": "2024-07-18T14:53:03Z",
+            "obtained_from": "identified_developer",
+            "path": "/Library/Application Support/Blackmagic Design/DaVinci Resolve/BMDPanelDaemon.app",
+            "signed_by": [
+                "Developer ID Application: Blackmagic Design Inc (9ZGFBWLSYP)",
+                "Developer ID Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": ""
+        },
+        {
+            "_name": "BMDPanelFirmware",
+            "arch_kind": "arch_i64",
+            "lastModified": "2024-07-18T14:53:03Z",
+            "obtained_from": "identified_developer",
+            "path": "/Library/Application Support/Blackmagic Design/DaVinci Resolve/BMDPanelFirmware.app",
+            "signed_by": [
+                "Developer ID Application: Blackmagic Design Inc (9ZGFBWLSYP)",
+                "Developer ID Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": ""
+        },
+        {
+            "_name": "CaptureLogs",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-07-18T14:53:03Z",
+            "obtained_from": "identified_developer",
+            "path": "/Library/Application Support/Blackmagic Design/DaVinci Resolve/CaptureLogs.app",
+            "signed_by": [
+                "Developer ID Application: Blackmagic Design Inc (9ZGFBWLSYP)",
+                "Developer ID Certification Authority",
+                "Apple Root CA"
+            ]
+        },
+        {
+            "_name": "DaVinciRemotePanel",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-07-18T14:53:03Z",
+            "obtained_from": "identified_developer",
+            "path": "/Library/Application Support/Blackmagic Design/DaVinci Resolve/DaVinciRemotePanel.app",
+            "signed_by": [
+                "Developer ID Application: Blackmagic Design Inc (9ZGFBWLSYP)",
+                "Developer ID Certification Authority",
+                "Apple Root CA"
+            ]
+        },
+        {
+            "_name": "Blackmagic RAW Player",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-07-18T14:53:01Z",
+            "obtained_from": "identified_developer",
+            "path": "/Applications/Blackmagic RAW/Blackmagic RAW Player.app",
+            "signed_by": [
+                "Developer ID Application: Blackmagic Design Inc (9ZGFBWLSYP)",
+                "Developer ID Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "4.1"
+        },
+        {
+            "_name": "Blackmagic RAW Speed Test",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-07-18T14:53:01Z",
+            "obtained_from": "identified_developer",
+            "path": "/Applications/Blackmagic RAW/Blackmagic RAW Speed Test.app",
+            "signed_by": [
+                "Developer ID Application: Blackmagic Design Inc (9ZGFBWLSYP)",
+                "Developer ID Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "4.1"
+        },
+        {
+            "_name": "VLC",
+            "arch_kind": "arch_ios",
+            "lastModified": "2023-11-01T13:48:23Z",
+            "obtained_from": "identified_developer",
+            "path": "/Applications/VLC.app",
+            "signed_by": [
+                "Developer ID Application: VideoLAN (75GAHG3SZQ)",
+                "Developer ID Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "3.0.20"
+        },
+        {
+            "_name": "AnyDesk",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-04-13T11:56:48Z",
+            "obtained_from": "identified_developer",
+            "path": "/Applications/AnyDesk.app",
+            "signed_by": [
+                "Developer ID Application: philandro Software GmbH (KU6W3B6JMZ)",
+                "Developer ID Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "8.0.1"
+        },
+        {
+            "_name": "zoom",
+            "arch_kind": "arch_arm",
+            "lastModified": "2024-03-19T15:37:27Z",
+            "obtained_from": "identified_developer",
+            "path": "/Applications/zoom.us.app",
+            "signed_by": [
+                "Developer ID Application: Zoom Video Communications, Inc. (BJ4HAAB9B3)",
+                "Developer ID Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "5.17.11 (31580)"
+        },
+        {
+            "_name": "Fax Extended Survey Program",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-04-06T08:09:59Z",
+            "obtained_from": "identified_developer",
+            "path": "/Applications/Canon Utilities/Inkjet Extended Survey Program/Inkjet Extended Survey Program.app",
+            "signed_by": [
+                "Developer ID Application: Canon Inc. (XE2XNRRXZ5)",
+                "Developer ID Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "5.6.0"
+        },
+        {
+            "_name": "Canon IJ Scan Utility Lite",
+            "arch_kind": "arch_arm_i64",
+            "info": "Canon IJ Scan Utility Lite version 4.1.1, Copyright CANON INC. 2012-2023",
+            "lastModified": "2024-04-06T08:13:38Z",
+            "obtained_from": "identified_developer",
+            "path": "/Applications/Canon Utilities/IJ Scan Utility/Canon IJ Scan Utility Lite.app",
+            "signed_by": [
+                "Developer ID Application: Canon Inc. (XE2XNRRXZ5)",
+                "Developer ID Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "4.1.1"
+        },
+        {
+            "_name": "Image Display",
+            "arch_kind": "arch_i64",
+            "lastModified": "2024-04-06T08:15:16Z",
+            "obtained_from": "identified_developer",
+            "path": "/Applications/Canon Utilities/My Image Garden/Image Display.app",
+            "signed_by": [
+                "Developer ID Application: Canon Inc. (XE2XNRRXZ5)",
+                "Developer ID Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "3.1.8"
+        },
+        {
+            "_name": "My Image Garden",
+            "arch_kind": "arch_i64",
+            "lastModified": "2024-04-06T08:15:16Z",
+            "obtained_from": "identified_developer",
+            "path": "/Applications/Canon Utilities/My Image Garden/My Image Garden.app",
+            "signed_by": [
+                "Developer ID Application: Canon Inc. (XE2XNRRXZ5)",
+                "Developer ID Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "3.6.8"
+        },
+        {
+            "_name": "Canon Quick Menu",
+            "arch_kind": "arch_i64",
+            "lastModified": "2024-04-06T08:15:30Z",
+            "obtained_from": "identified_developer",
+            "path": "/Applications/Canon Utilities/Quick Menu/Canon Quick Menu.app",
+            "signed_by": [
+                "Developer ID Application: Canon Inc. (XE2XNRRXZ5)",
+                "Developer ID Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "2.8.2"
+        },
+        {
+            "_name": "Imaging Edge Desktop",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-05-23T10:08:11Z",
+            "obtained_from": "identified_developer",
+            "path": "/Applications/Imaging Edge Desktop.app",
+            "signed_by": [
+                "Developer ID Application: Sony Corporation (VH49J2FYHE)",
+                "Developer ID Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "1.2.01.04030"
+        },
+        {
+            "_name": "Remote",
+            "arch_kind": "arch_i64",
+            "lastModified": "2024-05-23T10:09:32Z",
+            "obtained_from": "identified_developer",
+            "path": "/Applications/Imaging Edge/Remote.app",
+            "signed_by": [
+                "Developer ID Application: Sony Corporation (VH49J2FYHE)",
+                "Developer ID Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "3.7.01.02290"
+        },
+        {
+            "_name": "Edit",
+            "arch_kind": "arch_i64",
+            "lastModified": "2024-05-23T10:09:32Z",
+            "obtained_from": "identified_developer",
+            "path": "/Applications/Imaging Edge/Edit.app",
+            "signed_by": [
+                "Developer ID Application: Sony Corporation (VH49J2FYHE)",
+                "Developer ID Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "3.7.01.02290"
+        },
+        {
+            "_name": "Viewer",
+            "arch_kind": "arch_i64",
+            "lastModified": "2024-05-23T10:09:32Z",
+            "obtained_from": "identified_developer",
+            "path": "/Applications/Imaging Edge/Viewer.app",
+            "signed_by": [
+                "Developer ID Application: Sony Corporation (VH49J2FYHE)",
+                "Developer ID Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "3.7.01.02290"
+        },
+        {
+            "_name": "EULA_PP_Checker",
+            "arch_kind": "arch_i64",
+            "lastModified": "2024-05-23T10:09:30Z",
+            "obtained_from": "identified_developer",
+            "path": "/Users/rifaterdemsahin/Library/Application Support/Imaging Edge/EULA_PP_Checker.app",
+            "signed_by": [
+                "Developer ID Application: Sony Corporation (VH49J2FYHE)",
+                "Developer ID Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "3.7.01.02290"
+        },
+        {
+            "_name": "OBS",
+            "arch_kind": "arch_arm",
+            "lastModified": "2024-08-18T13:58:28Z",
+            "obtained_from": "identified_developer",
+            "path": "/Applications/OBS.app",
+            "signed_by": [
+                "Developer ID Application: Wizards of OBS LLC (2MMRE5MTB8)",
+                "Developer ID Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "30.2.3"
+        },
+        {
+            "_name": "Snagit 2024",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-05-20T12:42:21Z",
+            "obtained_from": "identified_developer",
+            "path": "/Applications/Snagit 2024.app",
+            "signed_by": [
+                "Developer ID Application: TechSmith Corporation (7TQL462TU8)",
+                "Developer ID Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "2024.2.5"
+        },
+        {
+            "_name": "Snagit 2022",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-06-06T19:49:57Z",
+            "obtained_from": "identified_developer",
+            "path": "/Applications/Snagit 2022.app",
+            "signed_by": [
+                "Developer ID Application: TechSmith Corporation (7TQL462TU8)",
+                "Developer ID Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "2022.2.8"
+        },
+        {
+            "_name": "Fade In",
+            "arch_kind": "arch_arm_i64",
+            "info": "Copyright \u00a9 The General Coffee Company Film Productions",
+            "lastModified": "2023-08-17T03:50:58Z",
+            "obtained_from": "identified_developer",
+            "path": "/Applications/Fade In.app",
+            "signed_by": [
+                "Developer ID Application: Kent Tessman (BD969MT8WJ)",
+                "Developer ID Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "4.1.0"
+        },
+        {
+            "_name": "Scrivener",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2023-10-16T19:33:51Z",
+            "obtained_from": "identified_developer",
+            "path": "/Applications/Scrivener.app",
+            "signed_by": [
+                "Developer ID Application: Literature & Latte Ltd (W4QTL7X778)",
+                "Developer ID Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "3.3.6"
+        },
+        {
+            "_name": "Final Draft 13",
+            "arch_kind": "arch_arm_i64",
+            "info": "13.1.0 Build 64, Copyright \u00a9 2020 Cast & Crew Production Software, LLC. All Rights Reserved.",
+            "lastModified": "2024-04-16T13:57:10Z",
+            "obtained_from": "identified_developer",
+            "path": "/Applications/Final Draft 13.app",
+            "signed_by": [
+                "Developer ID Application: Cast & Crew Production Software, LLC (7XUZ8R5736)",
+                "Developer ID Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "13.1.0"
+        },
+        {
+            "_name": "Canva",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-06-26T22:53:34Z",
+            "obtained_from": "identified_developer",
+            "path": "/Applications/Canva.app",
+            "signed_by": [
+                "Developer ID Application: Canva Pty Ltd (5HD2ARTBFS)",
+                "Developer ID Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "1.89.1"
+        },
+        {
+            "_name": "Google Drive",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-07-15T16:17:26Z",
+            "obtained_from": "identified_developer",
+            "path": "/Users/rifaterdemsahin/Applications/Chrome Apps.localized/Google Drive.app",
+            "signed_by": [
+                "Developer ID Application: Google LLC (EQHXZ8M8AV)",
+                "Developer ID Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": ""
+        },
+        {
+            "_name": "Uninstall Resolve",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-07-18T14:53:03Z",
+            "obtained_from": "identified_developer",
+            "path": "/Applications/DaVinci Resolve/Uninstall Resolve.app",
+            "signed_by": [
+                "Developer ID Application: Blackmagic Design Inc (9ZGFBWLSYP)",
+                "Developer ID Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "1.0"
+        },
+        {
+            "_name": "DaVinci Control Panels Setup",
+            "arch_kind": "arch_arm_i64",
+            "info": "",
+            "lastModified": "2024-07-18T14:52:42Z",
+            "obtained_from": "identified_developer",
+            "path": "/Applications/DaVinci Resolve/DaVinci Control Panels Setup.app",
+            "signed_by": [
+                "Developer ID Application: Blackmagic Design Inc (9ZGFBWLSYP)",
+                "Developer ID Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": ""
+        },
+        {
+            "_name": "Fairlight Studio Utility",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-07-18T14:52:53Z",
+            "obtained_from": "identified_developer",
+            "path": "/Applications/DaVinci Resolve/Fairlight Studio Utility.app",
+            "signed_by": [
+                "Developer ID Application: Blackmagic Design Inc (9ZGFBWLSYP)",
+                "Developer ID Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "1.7.2"
+        },
+        {
+            "_name": "Blackmagic Proxy Generator",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-07-18T14:53:03Z",
+            "obtained_from": "identified_developer",
+            "path": "/Applications/Blackmagic Proxy Generator.app",
+            "signed_by": [
+                "Developer ID Application: Blackmagic Design Inc (9ZGFBWLSYP)",
+                "Developer ID Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "19.0.0"
+        },
+        {
+            "_name": "DaVinci Remote Monitor",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-07-18T14:53:03Z",
+            "obtained_from": "identified_developer",
+            "path": "/Applications/DaVinci Resolve/DaVinci Remote Monitor.app",
+            "signed_by": [
+                "Developer ID Application: Blackmagic Design Inc (9ZGFBWLSYP)",
+                "Developer ID Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "19.0"
+        },
+        {
+            "_name": "DaVinci Resolve",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-07-18T14:53:03Z",
+            "obtained_from": "identified_developer",
+            "path": "/Applications/DaVinci Resolve/DaVinci Resolve.app",
+            "signed_by": [
+                "Developer ID Application: Blackmagic Design Inc (9ZGFBWLSYP)",
+                "Developer ID Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "19.0.0"
+        },
+        {
+            "_name": "DaVinci Resolve Welcome",
+            "arch_kind": "arch_arm_i64",
+            "info": "",
+            "lastModified": "2024-07-18T14:53:03Z",
+            "obtained_from": "identified_developer",
+            "path": "/Applications/DaVinci Resolve/DaVinci Resolve.app/Contents/Applications/DaVinci Resolve Welcome.app",
+            "signed_by": [
+                "Developer ID Application: Blackmagic Design Inc (9ZGFBWLSYP)",
+                "Developer ID Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": ""
+        },
+        {
+            "_name": "Electron",
+            "arch_kind": "arch_i64",
+            "lastModified": "2024-07-18T14:53:03Z",
+            "obtained_from": "identified_developer",
+            "path": "/Applications/DaVinci Resolve/DaVinci Resolve.app/Contents/Applications/Electron.app",
+            "signed_by": [
+                "Developer ID Application: Blackmagic Design Inc (9ZGFBWLSYP)",
+                "Developer ID Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "8.0.1"
+        },
+        {
+            "_name": "GitHub",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-07-20T08:19:23Z",
+            "obtained_from": "identified_developer",
+            "path": "/Users/rifaterdemsahin/Applications/Chrome Apps.localized/GitHub.app",
+            "signed_by": [
+                "Developer ID Application: Google LLC (EQHXZ8M8AV)",
+                "Developer ID Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": ""
+        },
+        {
+            "_name": "Visual Studio Code",
+            "arch_kind": "arch_ios",
+            "lastModified": "2024-08-20T03:59:48Z",
+            "obtained_from": "identified_developer",
+            "path": "/Applications/Visual Studio Code.app",
+            "signed_by": [
+                "Developer ID Application: Microsoft Corporation (UBF8T346G9)",
+                "Developer ID Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "1.93.0"
+        },
+        {
+            "_name": "Text Blaze BETA",
+            "arch_kind": "arch_ios",
+            "lastModified": "2024-08-30T06:00:12Z",
+            "obtained_from": "identified_developer",
+            "path": "/Applications/Text Blaze BETA.app",
+            "signed_by": [
+                "Developer ID Application: BLAZE TODAY INC. (95XB9GCA8T)",
+                "Developer ID Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "0.5.1"
+        },
+        {
+            "_name": "Microsoft Teams",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-09-11T16:10:47Z",
+            "obtained_from": "identified_developer",
+            "path": "/Applications/Microsoft Teams.app",
+            "signed_by": [
+                "Developer ID Application: Microsoft Corporation (UBF8T346G9)",
+                "Developer ID Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "24231.507.3099.9636"
+        },
+        {
+            "_name": "Spotify",
+            "arch_kind": "arch_arm",
+            "lastModified": "2024-08-15T09:39:26Z",
+            "obtained_from": "identified_developer",
+            "path": "/Applications/Spotify.app",
+            "signed_by": [
+                "Developer ID Application: Spotify (2FNC3A47ZF)",
+                "Developer ID Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "1.2.44.405"
+        },
+        {
+            "_name": "WhatsApp",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-23T18:36:50Z",
+            "obtained_from": "identified_developer",
+            "path": "/Applications/WhatsApp.app",
+            "signed_by": [
+                "Developer ID Application: WhatsApp Inc. (57T9237FN3)",
+                "Developer ID Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "24.16.80"
+        },
+        {
+            "_name": "CapCut",
+            "arch_kind": "arch_arm_i64",
+            "info": "0.2.0",
+            "lastModified": "2024-08-01T14:10:43Z",
+            "obtained_from": "identified_developer",
+            "path": "/Applications/CapCut.app",
+            "signed_by": [
+                "Developer ID Application: BYTEDANCE PTE. LTD. (22MMUN2RN5)",
+                "Developer ID Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "4.2.1634"
+        },
+        {
+            "_name": "Recursive File Processing Droplet",
+            "arch_kind": "arch_other",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "unknown",
+            "path": "/Library/Application Support/Script Editor/Templates/Droplets/Recursive File Processing Droplet.app",
+            "version": "1.0"
+        },
+        {
+            "_name": "Droplet with Settable Properties",
+            "arch_kind": "arch_other",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "unknown",
+            "path": "/Library/Application Support/Script Editor/Templates/Droplets/Droplet with Settable Properties.app",
+            "version": "1.0"
+        },
+        {
+            "_name": "Recursive Image File Processing Droplet",
+            "arch_kind": "arch_other",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "unknown",
+            "path": "/Library/Application Support/Script Editor/Templates/Droplets/Recursive Image File Processing Droplet.app",
+            "version": "1.0"
+        },
+        {
+            "_name": "Cocoa-AppleScript Applet",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "unknown",
+            "path": "/Library/Application Support/Script Editor/Templates/Cocoa-AppleScript Applet.app",
+            "version": "1.0"
+        },
+        {
+            "_name": "AirScanLegacyDiscovery",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-04T10:31:41Z",
+            "obtained_from": "apple",
+            "path": "/Library/Image Capture/Support/LegacyDeviceDiscoveryHelpers/AirScanLegacyDiscovery.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "607"
+        },
+        {
+            "_name": "Logi Options+",
+            "arch_kind": "arch_arm_i64",
+            "info": "Logi Options+ Application",
+            "lastModified": "2024-09-12T19:44:44Z",
+            "obtained_from": "identified_developer",
+            "path": "/Applications/logioptionsplus.app",
+            "signed_by": [
+                "Developer ID Application: Logitech Inc. (QED4VVPZWA)",
+                "Developer ID Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "1.82.618412"
+        },
+        {
+            "_name": "Docker",
+            "arch_kind": "arch_arm",
+            "lastModified": "2024-07-03T08:11:59Z",
+            "obtained_from": "identified_developer",
+            "path": "/Applications/Docker.app",
+            "signed_by": [
+                "Developer ID Application: Docker Inc (9BNSXJN65R)",
+                "Developer ID Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "4.32.0"
+        },
+        {
+            "_name": "Microsoft AutoUpdate",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-09-11T16:09:37Z",
+            "obtained_from": "identified_developer",
+            "path": "/Library/Application Support/Microsoft/MAU2.0/Microsoft AutoUpdate.app",
+            "signed_by": [
+                "Developer ID Application: Microsoft Corporation (UBF8T346G9)",
+                "Developer ID Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "4.75"
+        },
+        {
+            "_name": "GoogleUpdater",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-09-11T16:11:20Z",
+            "obtained_from": "identified_developer",
+            "path": "/Users/rifaterdemsahin/Library/Application Support/Google/GoogleUpdater/130.0.6679.0/GoogleUpdater.app",
+            "signed_by": [
+                "Developer ID Application: Google LLC (EQHXZ8M8AV)",
+                "Developer ID Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "130.0.6679.0"
+        },
+        {
+            "_name": "Microsoft Remote Desktop",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-08-30T00:57:23Z",
+            "obtained_from": "identified_developer",
+            "path": "/Applications/Microsoft Remote Desktop.app",
+            "signed_by": [
+                "Developer ID Application: Microsoft Corporation (UBF8T346G9)",
+                "Developer ID Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "10.9.10"
+        },
+        {
+            "_name": "YouTube",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-09-01T21:21:55Z",
+            "obtained_from": "identified_developer",
+            "path": "/Users/rifaterdemsahin/Applications/Chrome Apps.localized/YouTube.app",
+            "signed_by": [
+                "Developer ID Application: Google LLC (EQHXZ8M8AV)",
+                "Developer ID Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": ""
+        },
+        {
+            "_name": "Loom",
+            "arch_kind": "arch_ios",
+            "lastModified": "2024-09-16T12:20:12Z",
+            "obtained_from": "identified_developer",
+            "path": "/Applications/Loom.app",
+            "signed_by": [
+                "Developer ID Application: Loom, Inc (QGD2ZPXZZG)",
+                "Developer ID Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "0.253.6"
+        },
+        {
+            "_name": "Spotify",
+            "arch_kind": "arch_arm",
+            "lastModified": "2024-09-11T16:21:58Z",
+            "obtained_from": "identified_developer",
+            "path": "/Users/rifaterdemsahin/Library/Application Support/Spotify/PersistentCache/Update/temp/Spotify.app",
+            "signed_by": [
+                "Developer ID Application: Spotify (2FNC3A47ZF)",
+                "Developer ID Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "1.2.45.454"
+        },
+        {
+            "_name": "Logi Options+",
+            "arch_kind": "arch_arm_i64",
+            "info": "Logi Options+ Application",
+            "lastModified": "2024-09-12T19:44:45Z",
+            "obtained_from": "identified_developer",
+            "path": "/Library/Application Support/Logitech.localized/LogiOptionsPlus/logioptionsplus_agent.app",
+            "signed_by": [
+                "Developer ID Application: Logitech Inc. (QED4VVPZWA)",
+                "Developer ID Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "1.82.618412"
+        },
+        {
+            "_name": "Logi AI Prompt Builder",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-09-12T19:44:46Z",
+            "obtained_from": "identified_developer",
+            "path": "/Library/Application Support/Logitech.localized/LogiOptionsPlus/logi_ai_prompt_builder/Logi AI Prompt Builder.app",
+            "signed_by": [
+                "Developer ID Application: Logitech Inc. (QED4VVPZWA)",
+                "Developer ID Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "1.2.0"
+        },
+        {
+            "_name": "AppleMobileSync",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-09-16T07:38:22Z",
+            "obtained_from": "apple",
+            "path": "/Library/Apple/System/Library/PrivateFrameworks/MobileDevice.framework/Versions/A/AppleMobileSync.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "5.0"
+        },
+        {
+            "_name": "AppleMobileDeviceHelper",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-09-16T07:38:22Z",
+            "obtained_from": "apple",
+            "path": "/Library/Apple/System/Library/PrivateFrameworks/MobileDevice.framework/Versions/A/AppleMobileDeviceHelper.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "5.0"
+        },
+        {
+            "_name": "MobileDeviceUpdater",
+            "arch_kind": "arch_arm_i64",
+            "lastModified": "2024-09-16T07:38:22Z",
+            "obtained_from": "apple",
+            "path": "/Library/Apple/System/Library/PrivateFrameworks/MobileDevice.framework/Versions/A/Resources/MobileDeviceUpdater.app",
+            "signed_by": [
+                "Software Signing",
+                "Apple Code Signing Certification Authority",
+                "Apple Root CA"
+            ],
+            "version": "1.0"
+        }
+    ]
+}
